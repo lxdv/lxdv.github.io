@@ -3,7 +3,7 @@ layout: single
 title:  "Experiment Logging with TensorBoard and wandb"
 excerpt: "This blog post's goal is to discuss, propose and demonstrate effective and easy to setup solutions for research experiments logging"
 categories: tutorial
-tags: [experiment logging, experiment management, tensorboard,  weights and biases, wandb, python, machine learning, deep learning, object detection, tools, tutorial]
+tags: experiment_logging experiment_management tensorboard weights_and_biases wandb python machine_learning deep_learning object_detection tools tutorial
 
 header:
     teaser: /assets/images/experiment-logging/front-image.jpg
@@ -24,7 +24,7 @@ This blog post's goal is to discuss, propose and demonstrate effective and easy 
 
 In this post, I won't describe how convolutional neural networks work or how DL-based object detection can be done.
 
-To easily follow along this tutorial, please download code on my [GitHub profile](https://github.com/lxdv/lxdv.github.io/code/experiment-logging).
+To easily follow along this tutorial, please download code on my [GitHub profile](https://github.com//lxdv/experiment-logging).
 {: .notice--info}
 
 ## Experiment tracking
