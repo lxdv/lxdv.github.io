@@ -35,7 +35,7 @@ author:
   bio    : "Technical Lead @Modelplace.AI. MS in Computer Science."
   links:
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lxdv/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
