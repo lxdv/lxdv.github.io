@@ -1,9 +1,9 @@
-title: A. Lyashuk Blog
+title: A. Lyashuk
 email: hello.lyashuk@gmail.com
+name: "Alexander Lyashuk"
 description: >- # this means to ignore newlines until "baseurl:"
-  Alexander Lyashuk free format blog.
   MS in Computer Science - Data Mining.
-  Deep Learning Engineer @xperience.ai
+  Technical Lead @Modelplace.AI.
 repository: "lxdv/lxdv.github.io"
 github_username: lxdv
 minimal_mistakes_skin: default
@@ -32,20 +32,24 @@ plugins:
 author:
   name   : "Alexander Lyashuk"
   avatar : "/assets/org/me.jpg"
-  bio    : "MS in Computer Science. Deep Learning Engineer @xperience.ai"
+  bio    : "Technical Lead @Modelplace.AI. MS in Computer Science."
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/xlyashuk/"
+      url: "https://www.linkedin.com/in/lxdv/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lxdv"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/lyashuk"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://gitlab.com/lxdv" 
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
       url: "https://t.me/lyashuk"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/lyashuk"
+
 
 defaults:
   # _posts

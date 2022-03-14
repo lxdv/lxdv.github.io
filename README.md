@@ -1,6 +1,6 @@
-# A. Lyashuk blog
+# A. Lyashuk
 
-The repository contains posts and some code for my [blog](https://lxdv.github.io/)
+The repository contains posts and some code for the [blog](https://lxdv.github.io/).
 
 ## Table of contents
 
