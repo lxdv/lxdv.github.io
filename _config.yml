@@ -2,8 +2,8 @@ title: A. Lyashuk
 email: hello.lyashuk@gmail.com
 name: "Alexander Lyashuk"
 description: >- # this means to ignore newlines until "baseurl:"
-  MS in Computer Science - Data Mining.
-  Technical Lead @Modelplace.AI.
+  AI Things @ Sumsub. Agentic Systems.
+  ex-CTO @ KopiKat. ex-CV @ OpenCV.AI.
 repository: "lxdv/lxdv.github.io"
 github_username: lxdv
 minimal_mistakes_skin: default
@@ -32,7 +32,7 @@ plugins:
 author:
   name   : "Alexander Lyashuk"
   avatar : "/assets/org/me.jpg"
-  bio    : "Technical Lead @Modelplace.AI. MS in Computer Science."
+  bio    : "AI Things @ Sumsub · Agentic Systems · ex-CTO @ KopiKat · ex-CV @ OpenCV.AI"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
